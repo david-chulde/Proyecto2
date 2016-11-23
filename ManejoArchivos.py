@@ -16,7 +16,7 @@ def leertxt():
     archi=open('datos.txt','r')
     linea=archi.readline()
     while linea!="":
-        print (lineas)
+        print (linea)
         linea=archi.readline()
     archi.close()
 
@@ -25,3 +25,6 @@ def leertxttenlista():
     lineas=archi.readlines()
     print (lineas)
     archi.close()
+    
+leertxt()
+leertxttenlista()
