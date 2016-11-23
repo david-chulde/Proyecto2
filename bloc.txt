@@ -1,0 +1,4 @@
+hola mundo este es una prueba para la creacion grabacion 
+y leer archivos de texto en PYTHON el cual podemos contabilizar
+el numero de palabras que este lo contiene y asi poder saber
+dicho numero cabe la redundancia ojala que nos funcione
