@@ -25,5 +25,11 @@ def leertxttenlista():
     lineas=archi.readlines()
     print (lineas)
     archi.close()
+<<<<<<< HEAD
 
 leertxt()
+=======
+    
+leertxt()
+leertxttenlista()
+>>>>>>> 449a54fb8db9576bcdd48ce1c19041d1b0330a4f
