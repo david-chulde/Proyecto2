@@ -1,0 +1,3 @@
+El resultado de las raices son:
+X1 = 0.39564392373895996
+X2 = -1.89564392373896
