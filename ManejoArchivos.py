@@ -11,3 +11,17 @@ def grabartxt():
 
 creartxt()
 grabartxt()
+
+def leertxt():
+    archi=open('datos.txt','r')
+    linea=archi.readline()
+    while linea!="":
+        print (lineas)
+        linea=archi.readline()
+    archi.close()
+
+def leertxttenlista():
+    archi=open('datos.txt','r')
+    lineas=archi.readlines()
+    print (lineas)
+    archi.close()
