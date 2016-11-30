@@ -13,5 +13,7 @@ def creartxt():
             if p==palabra:
                 repetidas=repetidas+1
     print("la palabra \"{0}\" se repite {1} veces en el Archivo {2}".format(palabra,repetidas,archivo))
-    
+    conP.write(str(repetidas))
+    archF.close()
+    conP.close()
 creartxt()
